@@ -1,0 +1,29 @@
+
+
+    
+    .count-title {
+        font-size: 40px;
+        font-weight: bold;
+        margin-top: 10px;
+        color: #a2c62b;
+        margin-bottom: 0;
+
+        text-align: center;
+    }
+    
+    .count-text {
+        font-size: 14px;
+        font-weight: 600;
+        margin-top: 10px;
+        color: #575658;
+        margin-bottom: 0;
+        text-align: left;
+    }
+
+    
+    .fa-2x {
+        margin: 0 auto;
+        float: none;
+        display: table;
+        color: #4ad1e5;
+    }
